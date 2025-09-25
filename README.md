@@ -1,1 +1,0 @@
-# VM-with-Vnet-NIC-PubIP-Storageaccount
